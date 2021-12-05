@@ -1,0 +1,7 @@
+Cuisine
+Climate
+Fashion
+Music
+Language
+Attraction
+Culture
